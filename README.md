@@ -47,10 +47,6 @@ An application that is ran using the command line and Insomnia. This app allows 
 <img width="1512" alt="Screen Shot 2022-01-23 at 9 46 43 PM" src="https://user-images.githubusercontent.com/90540881/150722098-01ad2743-8086-4ee1-b2b7-a2491791c40a.png">
 <img width="1512" alt="Screen Shot 2022-01-23 at 9 46 47 PM" src="https://user-images.githubusercontent.com/90540881/150722101-bae2cfca-21a5-4a7e-88b0-a56d55e16b02.png">
 
-
-
-
-
 ## Dependencies
 - Node.js
 - NPM
